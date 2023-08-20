@@ -1,34 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next.js Full Stack Project
 
-## Getting Started
+[![Live Preview](https://img.shields.io/badge/preview-live-brightgreen)](https://next-js-crud-178120e1z-suman196pokhrel.vercel.app)
+[![Next.js](https://img.shields.io/badge/Next.js-13-blue)](https://nextjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-2.2.16-blueviolet)](https://tailwindcss.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4.4-green)](https://www.mongodb.com/)
+[![API Routes](https://img.shields.io/badge/API%20Routes-serverless-orange)](https://nextjs.org/docs/api-routes/introduction)
 
-First, run the development server:
+A full-stack web application built with Next.js, Tailwind CSS, and MongoDB, utilizing the power of API routes for serverless functions. This project demonstrates the creation of performant and responsive web applications while showcasing the integration of various modern technologies.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+**Share and Discover AI Prompts**: This website serves as a simple tool where users can share and discover various AI prompts they have used. Users are empowered to create, read, update, search, and delete prompts, making it an essential platform for AI enthusiasts and professionals.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Technologies Used
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **Next.js 13**: A powerful full-stack framework for building efficient web applications.
+- **Tailwind CSS**: A utility-first CSS framework for designing stylish and responsive user interfaces.
+- **MongoDB**: A NoSQL database used for storing and managing application data.
+- **API Routes**: Leveraging Next.js API routes for creating serverless functions, enhancing backend capabilities.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Features
 
-## Learn More
+- ✨ **Efficient Full Stack**: Harness the capabilities of Next.js to create a seamless full-stack experience.
+- 🎨 **Mobile Responsive UI**: Crafted using Tailwind CSS, the user interface is visually appealing and responsive.
+- 📦 **MongoDB Integration**: Utilize MongoDB for efficient and structured database storage.
+- 🚀 **Serverless Functions**: Leverage Next.js API routes for serverless backend functionality.
+- 🔗 **Deployment**: The application is deployed using Vercel and can be accessed [here](https://next-js-crud-178120e1z-suman196pokhrel.vercel.app).
+- 📝 **CRUD Operations**: Perform Create, Read, Update, and Delete operations for managing data efficiently.
 
-To learn more about Next.js, take a look at the following resources:
+## Deployment
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+The project is deployed using Vercel and can be accessed at [https://next-js-crud-178120e1z-suman196pokhrel.vercel.app](https://next-js-crud-178120e1z-suman196pokhrel.vercel.app).
